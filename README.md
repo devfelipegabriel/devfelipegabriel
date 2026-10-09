@@ -49,7 +49,7 @@ Estou construindo minha base técnica gradualmente, priorizando o entendimento d
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0B0F1A&color=A78BFA&line=8B5CF6&point=E5E7EB&area=true&hide_border=true&custom_title=Minha%20atividade%20no%20GitHub"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=devfelipegabriel&bg_color=0B0F1A&color=A78BFA&line=8B5CF6&point=E5E7EB&area=true&hide_border=true&custom_title=Minha%20atividade%20no%20GitHub"
     alt="Gráfico de atividade no GitHub"
     width="100%"
   />
