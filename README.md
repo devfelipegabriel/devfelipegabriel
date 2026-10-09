@@ -45,7 +45,7 @@ Estou construindo minha base técnica gradualmente, priorizando o entendimento d
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfelipegabriel&layout=compact&hide_border=true&bg_color=0B0F1A&title_color=A78BFA&text_color=E5E7EB" alt="Linguagens mais utilizadas"/>
 </p>
 
-## 📈 Histórico de contribuições
+<!-- ## 📈 Histórico de contribuições
 
 <p align="center">
   <img
@@ -54,6 +54,7 @@ Estou construindo minha base técnica gradualmente, priorizando o entendimento d
     width="100%"
   />
 </p>
+!-->
 
 ## 🐍 Minhas contribuições
 
