@@ -42,7 +42,7 @@ Estou construindo minha base técnica gradualmente, priorizando o entendimento d
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=devfelipegabriel&show_icons=true&hide_border=true&bg_color=0B0F1A&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&include_all_commits=true" alt="Estatísticas do GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfelipegabriel&layout=compact&hide_border=true&bg_color=0B0F1A&title_color=A78BFA&text_color=E5E7EB" alt="Linguagens mais utilizadas"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfelipegabriel&layout=compact&cache_seconds=10&hide_border=true&bg_color=0B0F1A&title_color=A78BFA&text_color=E5E7EB" alt="Linguagens mais utilizadas"/>
 </p>
 
 <!-- ## 📈 Histórico de contribuições
